@@ -1,0 +1,1 @@
+Java Servlet-based web application that allows users to select meals for each weekday from a predefined menu. Once submitted, their choices are stored and displayed, while the admin can view all orders grouped by day and reset the system when needed.
